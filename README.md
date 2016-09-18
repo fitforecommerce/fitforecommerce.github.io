@@ -1,37 +1,24 @@
-# Jekyll-Bootstrap-3
+#Clean Blog by Start Bootstrap - Jekyll Version
 
-Easily publish Bootstrap 3 powered Jekyll sites.  
-Fork of the well known jekyll-bootstrap (v0.3.0). Original project is [here](https://github.com/plusjade/jekyll-bootstrap).  
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.  
+The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
-## Usage
+###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
 
-### 1. Create a Repo
-- Go to <https://github.com> and create a new repository named *USERNAME.github.io*  
+## Before You Begin
 
-### 2. Install Jekyll-Bootstrap-3  
-<pre>
-  <code>
-    $ git clone https://github.com/dbtek/jekyll-bootstrap-3 USERNAME.github.io
-    $ cd USERNAME.github.com
-    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
-    $ git push origin master  
-  </code>
-</pre>  
-### 3. Enjoy !
-- After giving 10 mins to GitHub of course.  
+In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
 
-For original project's usage and documentation please see: <http://jekyllbootstrap.com>  
+It should look like this:
+`baseurl: ""`
 
+## What's Included
 
-### Themes
+A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
 
-Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gallery](http://jekyll-bootstrap-3.github.io/preview).
+A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
 
-## License
+You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
 
-[MIT](http://opensource.org/licenses/MIT)
+## Support
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
