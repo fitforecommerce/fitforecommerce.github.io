@@ -6,10 +6,10 @@ copyright_name: Fit for E-Commerce project team / Martin Kolb
 description: "Teaching vocational students e-commerce skills. The website for the Erasmus+ funded strategic partnership."
 baseurl: ""
 url: "https://fitforecommerce.github.io"
-twitter_username: ---
+# twitter_username: ---
 github_username:  fitforecommerce
-facebook_username:  ---
-email_username:  your-email@yourdomain.com
+# facebook_username:  ---
+# email_username:  your-email@yourdomain.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID

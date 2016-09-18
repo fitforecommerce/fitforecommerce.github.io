@@ -24,6 +24,13 @@ The acclaimed objective of the project is to develop innovative, learner-centere
 
 The materials will be thoroughly tested in three learning activities which will be hosted by the participating schools and then openly published to the project website. Furthermore a platform will be implemented in order to make the setup of multiple onlineshops for in-classroom use easy for teachers.
 
+## The partners
+
+<!-- Include Google maps stuff-->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="/js/partner_google_maps.js"></script>
+<div id="map_canvas"></div>
+
 <hr>
 
 This site was created using the [clean blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) 
