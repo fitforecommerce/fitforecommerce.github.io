@@ -26,7 +26,7 @@ However, what we at Staatliche Berufsschule II learned quite soon is, that the p
 
 ## The partners
 <!-- Include Google maps stuff-->
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
 <script src="/js/partner_google_maps.js"></script>
 <div id="map_canvas"></div>
 
