@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
+title:      "Titles must be changed"
 subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+date:       2014-09-18 12:00:00
+author:     "Martin Kolb"
 header-img: "img/post-bg-06.jpg"
 ---
 
