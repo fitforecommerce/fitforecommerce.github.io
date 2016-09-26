@@ -33,4 +33,4 @@ The materials will be thoroughly tested in three learning activities which will 
 
 <hr>
 
-This site was created using the [clean blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) 
+This site was created using the [clean blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) by BlackrockDigital
