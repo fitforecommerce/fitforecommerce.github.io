@@ -1,4 +1,4 @@
-# Clean Blog by Start Bootstrap - Jekyll Version
+# Fit for E-Commerce Project Website
 
 This repo is the source of the website for the Erasmus+ funded strategic partnership "Fit for E-Commerce". See the web version at [https://fitforecommerce.github.io](https://fitforecommerce.github.io)
 
