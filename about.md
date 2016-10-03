@@ -34,17 +34,20 @@ The materials will be thoroughly tested in three learning activities which will 
 ### Staatliche Berufsschule Bayreuth
 Äußere Badstraße 32  
 D-95448 Bayreuth  
-Germany
+Germany  
+[Website](https://kbs-bth.de)
 
 ### Landesberufsschule Tschuggmall Brixen 
 Fischzuchtweg 18  
 I-39042 Brixen  
-Italy
+Italy  
+[Website](http://www.tschuggmall.berufsschule.it)
 
 ###  SPSelit Dobruška - Střední průmyslová škola elektrotechniky a informačních technologií
 Čs.odboje 670  
 518 01 Dobruška  
 Czech Republic  
+[Website](https://spselitdobruska.cz)
 <hr>
 
 This site was created using the [clean blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) by BlackrockDigital
