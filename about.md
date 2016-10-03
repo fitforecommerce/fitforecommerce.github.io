@@ -54,3 +54,5 @@ Czech Republic
 <hr>
 
 This site was created using the [clean blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) by BlackrockDigital
+
+Copyright (c) 2013-2016 Blackrock Digital LLC.
