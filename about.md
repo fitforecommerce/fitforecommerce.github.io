@@ -37,8 +37,8 @@ D-95448 Bayreuth
 Germany
 
 ### Landesberufsschule Tschuggmall Brixen 
-Fischzuchtweg 18
-I-39042 Brixen
+Fischzuchtweg 18  
+I-39042 Brixen  
 Italy
 
 ###  SPSelit Dobruška - Střední průmyslová škola elektrotechniky a informačních technologií
