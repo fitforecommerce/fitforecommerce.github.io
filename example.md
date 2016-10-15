@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Markdown-Example - Source-Code"
+description: "project infos"
+header-img: "img/about-bg.jpg"
+---
 # Markdown-Example - Source-Code
 
 ## Paragraphs
