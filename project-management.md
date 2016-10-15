@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Explanatory notes on Budget Overview"
+description: "notes on budgeting of the project"
+header-img: "img/about-bg.jpg"
+---
 # Explanatory notes on Budget Overview - „Fit for E-Commerce“
 
 ## I. Allocation of contributions:
