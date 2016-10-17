@@ -1,5 +1,8 @@
 ---
 layout: page
+title: "Martin"
+description: ""
+header-img: "img/about-bg.jpg"
 ---
 # Martin Kolb
 
