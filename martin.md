@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Martin Kolb
 
 ![That's me](https://avatars0.githubusercontent.com/u/6861648?v=3&s=466)
