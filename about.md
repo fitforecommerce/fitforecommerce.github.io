@@ -5,6 +5,8 @@ description: "project infos"
 header-img: "img/about-bg.jpg"
 ---
 
+## About the project
+
 Germany-based Handelsjournal estimated in 2015 that the market share of online shops in Germany will almost double from currently 8.5 % to about 15 % in the year 2025. This development makes it clear that companies are in need for specialists in the field of e-commerce. Up to now there are only very little training possibilities for young people in this field. The vocational schools Staatliche Berufsschule II Bayreuth, SPS el-it Dobruska and Landesberufsschule Tschuggmall Brixen (Scuola Professionale Provinciale Tschuggmall di Bressanone) have formed a strategic partnership in order to develop training concepts for this emerging sector and thus give students new employment and career opportunities.
 
 The acclaimed objective of the project is to develop innovative, learner-centered, action-based materials which are designed to foster the digital competence of our students. This includes the following abilities:
