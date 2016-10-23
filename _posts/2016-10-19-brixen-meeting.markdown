@@ -12,4 +12,11 @@ After a hearty welcome at Scuola Professionale Provinciale Tschuggmall in Brixen
 
 The overall intention of the project is that not only the participating schools will profit from their work but also everybody who is interested in e-commerce.
 
-{% image_set photo-galleries/20161016-Brixen-TPM %}
+![Teacher's meeting](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 0.jpg)
+![Teacher's meeting 2](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 00.jpg)
+![Schoolhouse tour](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 1.jpg)
+![Schoolhouse tour](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 2.jpg)
+![Schoolhouse tour](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 3.jpg)
+![Guided tour around Brixen](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 4.jpg)
+![Guided tour around Brixen](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 5.jpg)
+![Teambuilding activity: mountain tour](/photo-galleries/20161016-Brixen-TPM/tpm_brixen - 7.jpg)
