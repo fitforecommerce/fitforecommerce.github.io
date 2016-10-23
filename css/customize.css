@@ -2,6 +2,7 @@ img {
 	/*-webkit-box-shadow: 5px 5px 5px 0px rgba(102,102,102,0.6);
 	-moz-box-shadow: 		5px 5px 5px 0px rgba(102,102,102,0.6);
 	box-shadow: 				5px 5px 5px 0px rgba(102,102,102,0.6);*/
+	margin: 1.0em 0px;
 }
 
 #map_canvas {
