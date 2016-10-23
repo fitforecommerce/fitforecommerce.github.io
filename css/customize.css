@@ -1,7 +1,7 @@
 img {
-	-webkit-box-shadow: 5px 5px 5px 0px rgba(102,102,102,0.6);
+	/*-webkit-box-shadow: 5px 5px 5px 0px rgba(102,102,102,0.6);
 	-moz-box-shadow: 		5px 5px 5px 0px rgba(102,102,102,0.6);
-	box-shadow: 				5px 5px 5px 0px rgba(102,102,102,0.6);
+	box-shadow: 				5px 5px 5px 0px rgba(102,102,102,0.6);*/
 }
 
 #map_canvas {
@@ -13,4 +13,13 @@ img {
 	-webkit-box-shadow: none;
 	-moz-box-shadow: 		none;
 	box-shadow: 				none;
+}
+
+.image-set {
+	list-style: none inside;
+	padding:0px;
+}
+
+li.image-item {
+	margin-bottom: 1.0em;
 }
