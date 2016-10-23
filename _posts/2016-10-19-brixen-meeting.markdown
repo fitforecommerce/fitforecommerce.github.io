@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erasmus+ Project Meeting"
+title: "Initial Project Meeting"
 subtitle: "Teachers from participating schools meet in Brixen"
 date: 2016-10-19 10:54:00
 author: "Hana Muzikova and Agnes Kolb"
