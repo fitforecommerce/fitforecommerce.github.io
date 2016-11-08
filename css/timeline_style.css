@@ -123,6 +123,10 @@ header h1 {
   margin-top: -12px;
 }
 /* .cd-timeline-img.cd-movie */
+.status-done, .status-in-progress, .status-waiting {
+	color: white;
+}
+
 .status-done {
   background: #75ce66;
 }
