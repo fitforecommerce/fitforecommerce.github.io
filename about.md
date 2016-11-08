@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "project infos"
-header-img: "img/about-bg.jpg"
+header-img: "img/blue_background.jpg"
 ---
 
 ## About the project
