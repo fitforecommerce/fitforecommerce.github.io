@@ -7,6 +7,8 @@ author: "Petra Uhlirova"
 header-img: "img/logo_design_header2.png"
 ---
 
+![Announcement for the logo competition](/img/logo_competition.jpg)
+
 Create a logo for our Erasmus+ Project "Fit for E-Commerce".
 
 Use formats: .psd, .png, .eps, .pdf,.ai
@@ -19,4 +21,4 @@ Send your logo design to the email address listed above by 16th January 2017.
 
 <div class="text-center h1">1st prize €150</div>
 
-![Announcement for the logo competition](/img/logo_competition.jpg)
+
