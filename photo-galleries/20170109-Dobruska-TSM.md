@@ -1,1 +1,1 @@
- photo-galleries/20170109-Dobruska-TSM/
+ photo-galleries/20170109-Dobruska-TSM
