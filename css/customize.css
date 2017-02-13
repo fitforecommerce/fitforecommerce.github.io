@@ -30,7 +30,10 @@ li.image-item {
 	font-size: 0.6em;
 }
 
-a.no-decoration {
+p a, li a, ol a {
+	text-decoration: underline;
+}
+a.no-decoration, nav a {
 	text-decoration: none;
 }
 a.no-decoration:hover {
