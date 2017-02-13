@@ -29,3 +29,10 @@ li.image-item {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 0.6em;
 }
+
+a.no-decoration {
+	text-decoration: none;
+}
+a.no-decoration:hover {
+	color: inherit;
+}
