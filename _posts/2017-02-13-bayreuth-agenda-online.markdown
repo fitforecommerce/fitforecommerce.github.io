@@ -6,6 +6,14 @@ date: 2017-02-13 10:30:00
 author: "Martin Kolb"
 header-img: "img/bayreuth_pano_eremitage.jpg"
 ---
+<div id="getting-started"></div>
+<script type="text/javascript">
+	function init() {
+	  jQuery('#getting-started').countdown('2017/04/03', function(event) {
+	    jQuery(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
+	  });
+  	};
+</script>
 ## Agenda
 
 ### Sunday
