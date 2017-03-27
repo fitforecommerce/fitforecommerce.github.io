@@ -17,29 +17,29 @@ header-img: "img/bayreuth_pano_eremitage.jpg"
 ## Agenda
 
 ### Sunday
-* arrival
+arrival
 
 ### Monday
-* Welcome at [Staatliche Berufsschule II Bayreuth](http://kbs-bth.de)
+* 8.00 Welcome at [Staatliche Berufsschule II Bayreuth](http://kbs-bth.de)
 * Schoolhouse tour
 * Project work
-* Guided tour around [Bayreuth](http://www.bayreuth.de/tourismus-kultur-freizeit/uebersicht/)
-* Unconfirmed: welcome at Bayreuth town hall
-* Welcome party at hostel
+* 15.30 Guided tour around [Bayreuth](http://www.bayreuth.de/tourismus-kultur-freizeit/uebersicht/)
+* 18.00 Welcome party at hostel
 
 ### Tuesday
-* Project work
+* 08.00 Project work
+* 12.00 Welcome at Bayreuth town hall
+* 13.00 Project work
 
 ### Wednesday
-* Project work - assisted by external consultant Patrick Weinstein from [patworx multimedia](http://patworx.de)
+* 08.00 Project work - assisted by external consultant Patrick Weinstein from [patworx multimedia](http://patworx.de)
 ![patworx is a Prestashop Partner](http://www.patworx.de/images/PrestaShop_partner_agencyPS.jpg)
 
 ### Thursday
-* Project work
-
-* Visit to the [brewery museum](https://www.maisel.com/bier_erlebnis_welt/information_und_anmeldung_54.html)
-* Farewell-Dinner at [Schinner Braustuben](http://www.schinner-braustuben.de)
+* 08.00 Project work
+* 16.00 Visit to the [brewery museum](https://www.maisel.com/bier_erlebnis_welt/information_und_anmeldung_54.html)
+* 18.00 Farewell-Dinner at [Schinner Braustuben](http://www.schinner-braustuben.de)
 
 ### Freitag
-* Presentation of results
-* departure
+* 08.00 Presentation of results
+* 11.00 departure
