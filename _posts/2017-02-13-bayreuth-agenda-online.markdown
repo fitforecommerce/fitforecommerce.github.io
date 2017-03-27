@@ -43,3 +43,13 @@ arrival
 ### Freitag
 * 08.00 Presentation of results
 * 11.00 departure
+
+## Hostel
+Our guests will stay at:
+
+[HWK Internat](https://www.hwk-oberfranken.de/72,0,581.html)  
+Kerschensteinerstraße 9  
+95448 Bayreuth  
+phone +49921 910300
+
+Breakfast and lunch will be provided there.
