@@ -23,6 +23,7 @@ arrival
 * 8.00 Welcome at [Staatliche Berufsschule II Bayreuth](http://kbs-bth.de)
 	* Schoolhouse tour
 	* Project work
+* 10.15 Meet and Greet with German teachers
 * 15.30 Guided tour around [Bayreuth](http://www.bayreuth.de/tourismus-kultur-freizeit/uebersicht/)
 * 18.00 Welcome party at hostel
 
