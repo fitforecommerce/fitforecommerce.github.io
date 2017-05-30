@@ -49,3 +49,11 @@ a.no-decoration:hover {
 	border: 2px solid #222;
 	color: #eee;
 }
+.site-heading {
+  text-shadow: 0px 0px 0.5em #333;
+}
+.post-preview > .post-meta {
+  font-size: 14px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-style: normal;
+}
