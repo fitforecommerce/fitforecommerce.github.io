@@ -63,4 +63,4 @@ The source code of the website is licensed under the MIT license
 <hr>
 
 ## Site design
-This site was created using the [clean blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) by BlackrockDigital - Copyright (c) 2013-2016 Blackrock Digital LLC.
+The design of this site is based on the [clean blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) by BlackrockDigital - Copyright (c) 2013-2016 Blackrock Digital LLC.
