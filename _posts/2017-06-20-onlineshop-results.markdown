@@ -2,7 +2,7 @@
 layout: post
 title: "Online-Shop results"
 subtitle: "Read about the shops created at the learning activity in Bayreuth"
-date: 2017-04-07 10:00:00
+date: 2017-06-21 08:46:00
 author: "Martin Kolb"
 header-img: "img/2017-04-07-webshops-screenshots/webshop-header.jpg"
 ---
