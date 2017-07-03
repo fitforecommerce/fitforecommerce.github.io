@@ -55,6 +55,16 @@ Czech Republic
 
 <hr>
 
+## EU-Funding - Disclaimer
+<img class='col-md-4' src='/img/co-funded-erasmus+.jpg' alt='co-funded by the Erasmus+ Programme of the European Union'>
+**Co-funded by the Erasmus+ Programme of the European Union**
+
+Spolufinancováno z programu Evropské unie Erasmus+  
+Kofinanziert durch das Programm Erasmus+ der Europäischen Union  
+Cofinanziato dal programma Erasmus+ dell'Unione europea
+
+The European Commission support for the production of this publication does not constitute an endorsement of the contents which reflects the views only of the authors, and the Commission cannot be held responsi­ble for any use which may be made of the information contained therein.
+
 ## Copyright
 Copyright (c) 2016-2018 Fit for e-commerce project team / coordinator: Martin Kolb, Staatliche Berufsschule II Bayreuth
 
