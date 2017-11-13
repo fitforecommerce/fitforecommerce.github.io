@@ -4,7 +4,7 @@ title: "Speck, wine and online marketing"
 subtitle: "SEO and product photography in Brixen"
 date: 2017-11-13 10:30:00
 author: "Petra Novotna"
-header-img: "img/brixen_mountains.jpg"
+header-img: "img/2017-11-13-meeting-brixen/thursday/thursday-tour-13.jpg"
 ---
 Speck and wine were not only on the menu during the learning activity in Brixen. They were also products in the online-shops that students had to work on. The focus of the week lay on search engine optimization (SEO) and product photography. Read on to learn more…
 
