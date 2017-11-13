@@ -7,14 +7,6 @@ author: "Martin Kolb"
 header-img: "img/brixen_mountains.jpg"
 ---
 See the agenda for the upcoming meeting in Brixen. The main task will be to optimize an existing online shop for search engines and taking advanced product photography.
-<div id="getting-started"></div>
-<script type="text/javascript">
-       function init() {
-         jQuery('#getting-started').countdown('2017/10/09', function(event) {
-           jQuery(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
-         });
-       };
-</script>
 
 ## Agenda
 

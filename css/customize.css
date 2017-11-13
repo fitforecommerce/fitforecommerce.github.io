@@ -1,10 +1,16 @@
 img {
-	/*-webkit-box-shadow: 5px 5px 5px 0px rgba(102,102,102,0.6);
-	-moz-box-shadow: 		5px 5px 5px 0px rgba(102,102,102,0.6);
-	box-shadow: 				5px 5px 5px 0px rgba(102,102,102,0.6);*/
-	margin: 1.0em 0px;
+	margin: 0px 0px;
 }
-
+div.gallery a {
+    display: inline-block;
+	width: 12.0em;
+	height: 12.0em;
+	margin: 0.2em;
+	background-position: center center;
+	background-size: cover;
+}
+div.gallery img {
+}
 .img_framed {
   margin: 0.5em;
 }
@@ -64,4 +70,19 @@ a.no-decoration:hover {
 .post-preview > .post-meta {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-style: normal;
+}
+
+/* add custom implementation of Bootstrap card */
+.card {
+	position: relative;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	min-width: 0;
+	word-wrap: break-word;
+	background-color: #fff;
+	background-clip: border-box;
+	border: 1px solid rgba(0, 0, 0, .125);
+	border-radius: .25rem
 }
