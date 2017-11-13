@@ -11,6 +11,10 @@ Speck and wine were not only on the menu during the learning activity in Brixen,
 ## Welcome in Brixen
 We were warmly welcomed at LBS Chr. J. Tschuggmall by our partners in Brixen, South Tirol - Italy. The meeting officially started very well on October 9, although the Germans and the Czechs had arrived the day before, because the journey can be tiring, so they had had at least some time to relax and explore the town a bit before the actual meeting.
 
+<div markdown="1" class="row">
+![The whole group in front of LBS Christian Tschuggmall](/img/2017-11-13-meeting-brixen/brixen_geissler.jpg)
+</div>
+
 So far, we have got a chance to get to know Italian educational system better, their lovely school, taste some of their excellent dishes, make international teams and learn something from our different cultures and languages. What we should probably mention as well is the thrilling marvelous city tour we have experienced, led by a professional tour guide, which Jürgen Seeber had arranged for us. Brixen in general is a wonderful town surrounded by beautiful mountains with stunning views of the town and on the top of that we have been enjoying perfect sunny weather. To guarantee an objective result, each student filled in a self-assessment online form to evaluate their competences and skills in the first place and they are supposed to do the same at the end of the week.
 
 ## Project task - Optimize your shop
@@ -29,6 +33,15 @@ After answering these questions students needed to use the administration panel 
 
 The goal of the week was to meet and learn how to use basic tools of analysis which should help a website get a better Google ranking in purpose to sell more products in an e-shop. Nevertheless, the educational program of our project is based on self-learning, so students participating in this meeting were supposed to do the tasks just with as little help as possible. Actually, the week also served as a course for teachers who were introduced to the art of SEO as well.
 
+<div class="gallery clearfix">
+	{% for image in site.static_files %}
+	    {% if image.path contains 'img/2017-11-13-meeting-brixen/project_work/' %}
+					<a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox" data-gallery="project-work" class="col-sm-4" style="background-image:url('{{ site.baseurl }}{{ image.path }}')" alt="image">
+					</a>
+	    {% endif %}
+	{% endfor %}
+</div>
+
 ## Professional product photography explained
 To cover the topic of **product photography**, we visited partner school LBS Handel und Grafik Johannes Gutenberg in Bozen on Wednesday. We went by train to that beautiful and not so far away city and got astonished by the equipment, complexion and specialization. The whole day we spent in the company of professional photographers, [Mr Arnold Ritter](http://focus-fotodesign.it), [Mr Maximilian Ritter](http://focus-fotodesign.it) and teacher [Erich Dapunt](http://erichdapunt.com) who motivated our students with their passion and enthusiasm for their work. We learnt a lot also thanks to their professional approach. It is unbelievable how happy we have been about the results and how positively the experts can influence our skillset. So, let us thank them once again for a wonderful time we spent with them. But that was not the end of the trip. We got a chance to see the oldest man in Europe in the Ötzi museum. And we have to say that he looks still the same :)
 
@@ -44,7 +57,25 @@ To cover the topic of **product photography**, we visited partner school LBS Han
 
 The following day we could 'relax' while hiking in the Italian Dolomites. We reached our final destination of Gschnagenhardt Alm around noon and there are no words to describe the wonderful nature and mountains with their fabulous views. This scenic landscape was the setting for taking additional professional-grade product photos of regional specialities. Teachers and students could apply their new skills they had gained the day before. After the photo shooting the specialities served as a delicious meal with a marvelous view of the surroundings.
 
+<div class="gallery clearfix">
+	{% for image in site.static_files %}
+	    {% if image.path contains 'img/2017-11-13-meeting-brixen/thursday/' %}
+					<a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox" data-gallery="thursday" class="col-sm-4 gallery-sm" style="background-image:url('{{ site.baseurl }}{{ image.path }}')" alt="image">
+					</a>
+	    {% endif %}
+	{% endfor %}
+</div>
+
 On Friday students had to present their results of the project tasks they had worked on during the week. As during the week in Bayreuth in April the results were remarkable. In very active way students had learned about SEO, keyword optimization and product photography and created professional-level results. Furthermore, many of the students had not worked with an online-shop software before so the even learned that "on the fly" during the week.
+
+<div class="gallery clearfix">
+	{% for image in site.static_files %}
+	    {% if image.path contains 'img/2017-11-13-meeting-brixen/presentation/' %}
+					<a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox" data-gallery="presentation" class="col-sm-4" style="background-image:url('{{ site.baseurl }}{{ image.path }}')" alt="image">
+					</a>
+	    {% endif %}
+	{% endfor %}
+</div>
 
 ## Thank you and see you in Dobruška
 Within the whole week our experiences went far into the heart of South-Tirolian culture as tasting their brilliant cuisine. For all that we greatly thank our Italian colleagues Jürgen Seeber, Helga Pernthaler and the school management. In addition, thanks for ordering such sunny weather :)

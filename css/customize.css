@@ -9,6 +9,10 @@ div.gallery a {
 	background-position: center center;
 	background-size: cover;
 }
+div.gallery .gallery-sm {
+	width: 8.0em;
+	height: 8.0em;
+}
 div.gallery img {
 }
 .img_framed {

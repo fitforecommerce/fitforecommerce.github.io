@@ -44,8 +44,7 @@ After that we will have to say goodbye, fortunately just for a short time, becau
 <div class="gallery clearfix">
 	{% for image in site.static_files %}
 	    {% if image.path contains 'img/2017-04-04-meeting-bayreuth/' %}
-					<a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="roadtrip">
-						<img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="col-md-2"/>
+					<a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox" data-gallery="photography_workshop" class="col-sm-4" style="background-image:url('{{ site.baseurl }}{{ image.path }}')" alt="image">
 					</a>
 	    {% endif %}
 	{% endfor %}
