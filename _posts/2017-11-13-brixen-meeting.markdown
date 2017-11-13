@@ -6,7 +6,7 @@ date: 2017-11-13 10:30:00
 author: "Petra Novotna"
 header-img: "img/brixen_mountains.jpg"
 ---
-Speck and wine were not only on the menu during the learning activity in Brixen, but they were also products in the online-shops students had to work on focusing on search engine optimization (SEO) and product photography. Read on to learn more…
+Speck and wine were not only on the menu during the learning activity in Brixen. They were also products in the online-shops that students had to work on. The focus of the week lay on search engine optimization (SEO) and product photography. Read on to learn more…
 
 ## Welcome in Brixen
 We were warmly welcomed at LBS Chr. J. Tschuggmall by our partners in Brixen, South Tirol - Italy. The meeting officially started very well on October 9, although the Germans and the Czechs had arrived the day before, because the journey can be tiring, so they had had at least some time to relax and explore the town a bit before the actual meeting.
@@ -15,10 +15,10 @@ We were warmly welcomed at LBS Chr. J. Tschuggmall by our partners in Brixen, So
 ![The whole group in front of LBS Christian Tschuggmall](/img/2017-11-13-meeting-brixen/brixen_geissler.jpg)
 </div>
 
-So far, we have got a chance to get to know Italian educational system better, their lovely school, taste some of their excellent dishes, make international teams and learn something from our different cultures and languages. What we should probably mention as well is the thrilling marvelous city tour we have experienced, led by a professional tour guide, which Jürgen Seeber had arranged for us. Brixen in general is a wonderful town surrounded by beautiful mountains with stunning views of the town and on the top of that we have been enjoying perfect sunny weather. To guarantee an objective result, each student filled in a self-assessment online form to evaluate their competences and skills in the first place and they are supposed to do the same at the end of the week.
+So far, we had got a chance to get to know Italian educational system better, their lovely school, taste some of their excellent dishes, make international teams and learn something from our different cultures and languages. What we should probably mention as well is the thrilling marvellous city tour we experienced, led by a professional tour guide, which Jürgen Seeber had arranged for us. Brixen in general is a wonderful town surrounded by beautiful mountains with stunning views of the town and on the top of that we were enjoying perfect sunny weather. To guarantee an objective result, each student filled in a self-assessment online form to evaluate their competences and skills in the first place and they are supposed to do the same at the end of the week.
 
 ## Project task - Optimize your shop
-The project task for this week is **search engine optimization (SEO)** and product photography. To help with this task, we started with a short input on Monday in which students and teachers learned about the basics of SEO. 
+The project tasks for this week were **search engine optimization (SEO)** and product photography. To help with this task, we started with a short input on Monday in which students and teachers learned about the basics of SEO. 
 
 On Tuesday students had to "dive" into SEO. The teachers had set up working online-shops which were not at all search engine optimized. Students' task for the week was to fix that. Here are a few tasks students had to take care of:
 
@@ -43,7 +43,7 @@ The goal of the week was to meet and learn how to use basic tools of analysis wh
 </div>
 
 ## Professional product photography explained
-To cover the topic of **product photography**, we visited partner school LBS Handel und Grafik Johannes Gutenberg in Bozen on Wednesday. We went by train to that beautiful and not so far away city and got astonished by the equipment, complexion and specialization. The whole day we spent in the company of professional photographers, [Mr Arnold Ritter](http://focus-fotodesign.it), [Mr Maximilian Ritter](http://focus-fotodesign.it) and teacher [Erich Dapunt](http://erichdapunt.com) who motivated our students with their passion and enthusiasm for their work. We learnt a lot also thanks to their professional approach. It is unbelievable how happy we have been about the results and how positively the experts can influence our skillset. So, let us thank them once again for a wonderful time we spent with them. But that was not the end of the trip. We got a chance to see the oldest man in Europe in the Ötzi museum. And we have to say that he looks still the same :)
+To cover the topic of **product photography**, we visited partner school LBS Handel und Grafik Johannes Gutenberg in Bozen on Wednesday. We went by train to that beautiful and not so far away city and got astonished by the equipment, complexion and specialization. The whole day we spent in the company of professional photographers, [Mr Arnold Ritter](http://focus-fotodesign.it), [Mr Maximilian Ritter](http://focus-fotodesign.it) and teacher [Erich Dapunt](http://erichdapunt.com) who motivated our students with their passion and enthusiasm for their work. We learnt a lot, also thanks to their professional approach. It is unbelievable how happy we have been about the results and how positively the experts could influence our skillset. So, let us thank them once again for a wonderful time we spent with them. But that was not the end of the trip. We got a chance to see the oldest man in Europe in the Ötzi museum. And we have to say that he looks still the same :)
 
 <div class="gallery clearfix">
 	{% for image in site.static_files %}
