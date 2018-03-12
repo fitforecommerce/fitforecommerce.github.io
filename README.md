@@ -4,11 +4,6 @@ This repo is the source of the website for the Erasmus+ funded strategic partner
 
 ## The partners
 
-<!-- Include Google maps stuff-->
-<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false&key=AIzaSyDvcL__RB06mmPrpbzj88CnN23GbN9p-Lc"></script>
-<script src="/js/partner_google_maps.js"></script>
-<div id="map_canvas"></div>
-
 ### Staatliche Berufsschule Bayreuth
 Äußere Badstraße 32  
 D-95448 Bayreuth  
