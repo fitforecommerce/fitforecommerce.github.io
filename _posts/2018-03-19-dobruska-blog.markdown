@@ -6,7 +6,7 @@ date: 2018-03-18 10:30:00
 author: "Julia	Mestel, Mareike Weydenhammer, Karine	Vodounou"
 header-img: "img/dobruska_header.jpg"
 ---
-Read the live blog from Dobrusak about the meeting taking place from 18th to 23rd March 2018.
+Read the live blog from Dobruska about the meeting taking place from 18th to 23rd March 2018.
 
 <h2>Sunday</h2>
 After a little journey, we arrived in Prague main train station at around 1 pm. In Prague we gave our luggage to a storage place and started to walk towards the city centre of Prague. We have seen many different places like Charles Bridge, Hradcin and had the opportunity to taste the Bohemian kitchen. After seeing the rest of the sights, and a little delay we finally arrived in Dobruska.
