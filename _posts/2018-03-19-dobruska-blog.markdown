@@ -23,7 +23,7 @@ After a little journey, we arrived in Prague main train station at around 1 pm. 
 
 <h2>Monday</h2>
 
-Today we started our day with an amazing breakfast. Shortly after, we went to the school: <a href="https://spselitdobruska.cz">SPSel.it Dobruska</a>. There we met the Czech students and teachers and learned about the Czech school system. We also had a little tour through the whole school and did some ice-breaking activities. After lunch, we met the mayor at the town hall and we had the chance to walk on top of the tower to see all over the city of Dobruska. Because the weather was so freezing, we cancelled the sightseeing tour through Dobruska, but we stopped at a little museum, the parent house of Frantisek Kupka. For dinner, we had traditional Czech food made by the students and teachers, it was a delicious experience. 
+Today we started our day with an amazing breakfast. Shortly after, we went to the school: <a href="https://spselitdobruska.cz">SPSel.it Dobruska</a>. There we met the Czech students and teachers and learned about the Czech school system. We also had a little tour through the whole school and did some ice-breaking activities. After lunch, we met the mayor at the town hall and we had the chance to walk on top of the tower to see all over the city of Dobruska. Because the weather was so freezing, we cancelled the sightseeing tour through Dobruska, but we stopped at a little museum, the parent house of Frantisek Vladislav Hek. For dinner, we had traditional Czech food made by the students and teachers, it was a delicious experience. 
 
 <div class="gallery clearfix">
 	{% for image in site.static_files %}
