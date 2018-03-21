@@ -34,6 +34,11 @@ Today we started our day with an amazing breakfast. Shortly after, we went to th
 	{% endfor %}
 </div>
 
+<h2>Tuesday</h2>
+
+In the morning, we started the day with a presentation about the Internet and its basic technologies. The main idea behind the web is to have common information space in which we communicate by sharing. Our lecturer taught us about the history of HTML, CSS and JavaScript and explained the differences between those programming languages. We also learned something about the phases of development of the web. After that, we had the chance to program our first own Website, with a little help…
+
+In the afternoon, we sat down in our groups put together of three students from Czech Republic, Italy and Germany. We than started creating the Webpage.
 
 ---
 title image by [János Korom Dr.](https://www.flickr.com/photos/korom/4619241288/in/photolist-bqqcqJ-838Fxz-838FuF-83bPvb-83bPsf-nKVCRX-XRfJx5/)
