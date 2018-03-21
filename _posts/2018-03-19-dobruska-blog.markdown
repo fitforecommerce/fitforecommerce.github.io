@@ -38,7 +38,27 @@ Today we started our day with an amazing breakfast. Shortly after, we went to th
 
 In the morning, we started the day with a presentation about the Internet and its basic technologies. The main idea behind the web is to have common information space in which we communicate by sharing. Our lecturer taught us about the history of HTML, CSS and JavaScript and explained the differences between those programming languages. We also learned something about the phases of development of the web. After that, we had the chance to program our first own Website, with a little help…
 
-In the afternoon, we sat down in our groups put together of three students from Czech Republic, Italy and Germany. We than started creating the Webpage.
+<div class="gallery clearfix">
+	{% for image in site.static_files %}
+	    {% if image.path contains 'img/2018-03-18-meeting-dobruska/03-tuesday-websites/' %}
+					<a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox" data-gallery="photography_workshop" class="col-sm-4" style="background-image:url('{{ site.baseurl }}{{ image.path }}')" alt="image">
+					</a>
+	    {% endif %}
+	{% endfor %}
+</div>
+
+In the afternoon, we sat down in our groups put together of three students from Czech Republic, Italy and Germany. We than started creating the Webpage. See our results above.
+
+<div class="gallery clearfix">
+	{% for image in site.static_files %}
+	    {% if image.path contains 'img/2018-03-18-meeting-dobruska/03-tuesday/' %}
+					<a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox" data-gallery="photography_workshop" class="col-sm-4" style="background-image:url('{{ site.baseurl }}{{ image.path }}')" alt="image">
+					</a>
+	    {% endif %}
+	{% endfor %}
+</div>
+
+
 
 ---
 title image by [János Korom Dr.](https://www.flickr.com/photos/korom/4619241288/in/photolist-bqqcqJ-838Fxz-838FuF-83bPvb-83bPsf-nKVCRX-XRfJx5/)
