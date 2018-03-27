@@ -1,8 +1,9 @@
 img {
 	margin: 0px 0px;
 }
+/* gallery styles */
 div.gallery a {
-    display: inline-block;
+  display: inline-block;
 	width: 12.0em;
 	height: 12.0em;
 	margin: 0.2em;
@@ -19,6 +20,8 @@ div.gallery img {
   margin: 0.5em;
 }
 
+
+/* map */
 #map_canvas {
 	width: 100%;
 	height: 16.0em;
