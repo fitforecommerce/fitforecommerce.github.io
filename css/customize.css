@@ -93,3 +93,23 @@ a.no-decoration:hover {
 	border: 1px solid rgba(0, 0, 0, .125);
 	border-radius: .25rem
 }
+
+
+/* tutorial content */
+#tutorial_content img {
+  max-width:80%;
+  margin:0.6em;
+  border: 1px solid #666;
+  margin-left: auto;
+  margin-right: auto;
+}
+#tutorial_content .alert-info {
+  padding: 1.0rem;
+}
+#tutorial_content .alert-info p {
+  margin-top: 0px;
+  margin-bottom: 1.0em;
+}
+#tutorial_content li {
+  margin: 1.6em 0em;
+}

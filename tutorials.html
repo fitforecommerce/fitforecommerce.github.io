@@ -1,0 +1,29 @@
+---
+layout: page
+title: "FEC Tutorials"
+description: "A selection of tutorials on teaching e-commerce"
+---
+
+<p>Here you can find a selection of tutorials on various topics regarding teaching e-commerce. Some of these tutorials are currently available in German only.</p>
+
+{% assign sorted = (site.tutorials | sort 'date') | reverse %}
+{% for post in sorted %}
+ {% capture cf %}{% cycle '<div class="clearfix"></div>', '' %}{% endcapture %}
+ {{ cf }}
+	<div class="post-preview col-md-6">
+  <a href="{{ post.url | prepend: site.baseurl }}">
+      <h2 class="post-title">            {{ post.title }}
+      </h2>
+      {% if post.subtitle %}
+      <h3 class="post-subtitle">
+          {{ post.subtitle }}
+      </h3>
+      {% endif %}
+  </a>
+  <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+		<div class="post-excerpt">
+			{{ post.excerpt }}
+		</div>
+</div>
+{% endfor %}
+</div>
