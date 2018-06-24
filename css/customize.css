@@ -1,6 +1,11 @@
 img {
 	margin: 0px 0px;
 }
+
+main {
+  padding-bottom: 10.0rem;
+}
+
 /* gallery styles */
 div.gallery a {
   display: inline-block;
