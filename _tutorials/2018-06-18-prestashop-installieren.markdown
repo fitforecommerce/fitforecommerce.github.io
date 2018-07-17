@@ -1,12 +1,14 @@
 ---
 layout: tutorial
 title: "Tutorial: Einen Webshop lokal installieren"
-subtitle: "Einen Webshop lokal installieren und testen [DE]"
+subtitle: "Einen Webshop lokal installieren und testen [DE]<br>Update: 17.07.2018"
 date: 2018-06-24 10:30:00
 author: "Martin Kolb"
 header-img: "img/2018-06-18-prestashop-installieren/presta_header.jpg"
 tags: tutorial
 ---
+
+Dieser Artikel wurde am 17.07.2018 aktualisiert
 
 Im Zuge der Einführung des Ausbildungsberufs "Kaufmann/-frau im E-Commerce" stehen viele Schulen vor dem Problem ein Webshop-System für Unterrichtszwecke vorzuhalten. Ein System, mit der wir im Rahmen des Erasmus+ Projekts "Fit for E-Commerce" sehr gute Erfahrungen gemacht haben, ist Prestashop. Der folgende Artikel gibt eine kurze Einführung, wie man Prestashop auf einem lokalen Windows-Rechner installieren und betreiben kann.
 
@@ -85,6 +87,36 @@ Falls Sie während des letzten Installationsschrittes die Fehlermeldung ``HTTP 5
 1. Öffnen Sie das XAMPP-Control-Panel und klicken Sie bei Apache auf 'Konfig' und dann auf den Eintrag ``httpd.conf`` ![44 Prestashop Installer Open Httpdconf](/img/2018-06-18-prestashop-installieren/45-prestashop-installer-open-httpdconf.png)
 2. Die Datei öffnet sich im Programm Textedit. Suchen Sie die Zeile mit dem Eintrag ``AllowOverride None`` und änder Sie diese um in ``AllowOverride All`` und speichern Sie die Datei über "Datei -> Speichern". ![46 Prestashop Installer Textedit](/img/2018-06-18-prestashop-installieren/46-prestashop-installer-textedit.png)
 3. Wechseln Sie zurück in den Browser und klicken Sie auf den Link *clicking here*, um den letzten Schritt der Installation erneut zu starten. ![47 Prestashop Installer Error500 Marked](/img/2018-06-18-prestashop-installieren/47-prestashop-installer-error500-marked.png)
+
+### Fehlermeldung: HTTP Error 500 - Variante 2
+Wenn die oben beschriebene Lösung nicht weiterhilft, kann evt. folgender Hinweis helfen: [siehe auch hier](https://www.prestashop.com/forums/topic/855919-error-during-prestashop-174-installation/)
+
+Zur Behebung muss man in die Datei ``/www/modules/ps_themecusto/ps_themecusto.php`` in die Zeile 193 gehen und dort die Zeile mit 'de' einfügen, so dass es folgendermaßen aussieht:
+
+``` php
+public function getTabNameByLangISO()
+{
+    return array(
+        $this->controller_name[1] => array(
+            'fr'    => 'Configuration page d\'accueil',
+            'en'    => 'Homepage Configuration',
+            'es'    => 'Configuración página de inicio',
+            'it'    => 'Configurazione homepage',
+            'de'    => 'Homepage konfigurieren'
+        ),
+        $this->controller_name[0] => array(
+            'fr'    => 'Personnalisation avancée',
+            'en'    => 'Advanced Customization',
+            'es'    => 'Personalización avanzada',
+            'it'    => 'Personalizzazione avanzata',
+            'de'    => 'Personalisieren'
+        ),
+    );
+}
+````
+
+Danach die Datei speichern und die Installation noch einmal starten….
+
 </div>
 
 Wenn alles glatt verläuft, sollten Sie am Ende folgende Erfolgsmeldung sehen: 
