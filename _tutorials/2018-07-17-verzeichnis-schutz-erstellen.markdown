@@ -32,17 +32,17 @@ Grundsätzlich funktioniert der Kennwortschutz mit .htacess/.htpasswd mit zwei D
 
 ### Die Kennwortdatei generieren
 Wir werden nun zunächst die .htpasswd-Datei mit dem Benutzernamen und Kennwort erstellen. Öffnen Sie dazu die Seite [http://www.htaccesstools.com/htpasswd-generator/](http://www.htaccesstools.com/htpasswd-generator/). Geben Sie dort den gewünschten Benutzernamen und Kennwort ein.
-![02 Htaccess Fertig](/img/2018-07-17-verzeichnis-schutz-erstellen/02-htpasswd-fertig.png)
+{% include imgclick.html alt="02 Htaccess Fertig" src="/img/2018-07-17-verzeichnis-schutz-erstellen/02-htpasswd-fertig.png" %}
 
 Klicken Sie auf "Create .htpasswd file" und es öffnet sich die folgende Seite mit dem Inhalt der .htpasswd-Datei: 
-![02 Htaccess Fertig](/img/2018-07-17-verzeichnis-schutz-erstellen/02-htpasswd-fertig.png)
+{% include imgclick.html alt="02 Htaccess Fertig" src="/img/2018-07-17-verzeichnis-schutz-erstellen/02-htpasswd-fertig.png" %}
 
 Kopieren Sie nun den Text aus dem Textfeld in einen Texteditor und speichern Sie die Datei unter dem Namen ".htpasswd" ab.
 
 ### Die Regeln für den Zugriff erstellen
 Im zweiten Schritt generieren wir nun die .htaccess-Datei, die den Zugriff auf das Verzeichnis regeln soll. Dazu öffnen wir die Seite [http://www.htaccesstools.com/htaccess-authentication/](http://www.htaccesstools.com/htaccess-authentication/) und geben dort einen kurzen Begrüßungstext ein, der im Anmeldefenster des geschützten Bereichs erscheinen wird. Im zweiten Eingabefeld muss der **absolute Pfad(!)** der .htpasswd-Datei eingegeben werden, in der die Zugangsdaten gespeichert sind.
 
-![04 Htaccess Erstellen](/img/2018-07-17-verzeichnis-schutz-erstellen/04-htaccess-erstellen.png)
+{% include imgclick.html alt="04 Htaccess Erstellen" src="/img/2018-07-17-verzeichnis-schutz-erstellen/04-htaccess-erstellen.png" %}
 
 <div class='alert-info' markdown='1'>
 Den absoluten Pfad können Sie zum Beispiel auf folgende Art herausfinden:
@@ -56,17 +56,17 @@ echo "<p>Full path to this dir: " . $dir . "</p>";
 echo "<p>Full path to a .htpasswd file in this dir: " . $dir . "/.htpasswd" . "</p>";
 ?>
 ````
-![05 Htaccess Texteditor](/img/2018-07-17-verzeichnis-schutz-erstellen/05-htaccess-texteditor.png)
+{% include imgclick.html alt="05 Htaccess Texteditor" src="/img/2018-07-17-verzeichnis-schutz-erstellen/05-htaccess-texteditor.png" %}
 </div>
 
 Rufen Sie die Seite im Browser über die Webserver-Adresse auf und Sie erhalten den absoluten Pfad zum Verzeichnis.
-![06 Htaccess Pfad](/img/2018-07-17-verzeichnis-schutz-erstellen/06-htaccess-pfad.png)
+{% include imgclick.html alt="06 Htaccess Pfad" src="/img/2018-07-17-verzeichnis-schutz-erstellen/06-htaccess-pfad.png" %}
 
 Geben Sie diesen Pfad in die Maske der Website htaccesstools ein.
 
 **Wichtig:** Wenn Sie Windows verwenden, ersetzen Sie die Backslashes \ durch "normale" Slashes / (siehe Screenshot).
 
-![07 Htaccess Pfad Seite](/img/2018-07-17-verzeichnis-schutz-erstellen/07-htaccess-pfad-seite.png)
+{% include imgclick.html alt="07 Htaccess Pfad Seite" src="/img/2018-07-17-verzeichnis-schutz-erstellen/07-htaccess-pfad-seite.png" %}
 
 Speichern Sie die Datei unter dem Namen .htaccess und laden Sie sie ebenfalls in das vorgesehene Verzeichnis des Webservers hoch. Ihr zu schützendes Verzeichnis sollte nun folgende Dateien beinhalten:
 
@@ -79,4 +79,4 @@ Speichern Sie die Datei unter dem Namen .htaccess und laden Sie sie ebenfalls in
 
 Rufen Sie nun im Browser eine Datei im geschützten Verzeichnis auf. Anstelle der Datei sollte nun ein Anmeldefenster in Ihrem Browser erscheinen, das das vergebene Kennwort abfragt.
 
-![08 Htaccess Login](/img/2018-07-17-verzeichnis-schutz-erstellen/08-htaccess-login.png)
+{% include imgclick.html alt="08 Htaccess Login" src="/img/2018-07-17-verzeichnis-schutz-erstellen/08-htaccess-login.png" %}
