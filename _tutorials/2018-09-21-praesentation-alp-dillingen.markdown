@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: "Präsentation E-Commerce unterrichten"
+title: "Präsentation: E-Commerce unterrichten"
 subtitle: "Vortrag an der Akademie für Lehrerfortbildung Dillingen [DE]"
 date: 2018-09-20 08:30:00
 author: "Martin Kolb"

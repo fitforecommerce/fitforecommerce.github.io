@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: "PrestaCollege einsetzen [DE]"
+title: "Tutorial: PrestaCollege einsetzen [DE]"
 subtitle: "Ein Modul für den Unterrichtseinsatz von Prestashop"
 date: 2018-09-25 08:30:00
 author: "Martin Kolb"

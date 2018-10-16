@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: "Einen Webshop mit Passwort schützen"
+title: "Tutorial: Einen Webshop mit Passwort schützen"
 subtitle: "Wie kann ich meinen Webshop gegen ungewollten Zugriff von außen schützen? [DE]"
 date: 2018-07-16 10:30:00
 author: "Martin Kolb"

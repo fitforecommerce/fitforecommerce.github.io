@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: "Prestashop-Installation bei 1und1"
+title: "Tutorial: Prestashop-Installation bei 1und1"
 subtitle: "Beispiel wie man Prestashop bei 1und1 installieren kann [DE]"
 date: 2018-07-31 08:30:00
 author: "Andreas Loibl & Martin Kolb"
