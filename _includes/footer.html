@@ -4,8 +4,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <div id="footer-logo" class="float-left">
+                <img src="/img/fec_logo.png" class="img-fluid">
+              </div>
                 <ul class="list-inline text-center">
-                    <li>
+                    <li class="float-left">
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -34,7 +37,7 @@
                     </li>
                     {% endif %}
                     {% if site.github_username %}
-                    <li>
+                    <li class="float-left">
                         <a href="https://github.com/{{ site.github_username }}" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -54,16 +57,20 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
             </div>
 			<div class="col-lg-4 col-lg-offset-4">
 				<ul class="list-inline text-center">
 					<li>
-						<img src='/img/co-funded-erasmus+.jpg' alt='co-funded by the Erasmus+ Programme of the European Union'>
+						<img class="img-fluid" src='/img/co-funded-erasmus+.jpg' alt='co-funded by the Erasmus+ Programme of the European Union'>
 					</li>
 				</ul>
 			</div>
         </div>
+      <div class="row d-md-flex">
+        <div class="col-md-12">
+          <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
+        </div>
+      </div>
     </div>
 </footer>
 

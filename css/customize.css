@@ -52,12 +52,100 @@ li.image-item {
 	font-size: 0.6em;
 }
 
+#footer-logo {
+  max-width: 4.0rem;
+  max-height: 4.0rem;
+}
+
 p a, li a, ol a {
 	text-decoration: underline;
 }
 a.no-decoration, nav a {
 	text-decoration: none;
 }
+/* Navigation styles */
+#mainnav {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 10;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding-top: 0.2rem;
+  display: block;
+  background-color: white;
+}
+#mainnav, #mainnav a {
+  color: #333;
+}
+#mainnav .nav-item {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.navbar-brand, #navtoggle {
+  padding: 1.0rem;
+}
+.navbar-brand {
+  font-size: 1.6rem;
+  font-weight: 800;
+}
+.nav{
+  display: block;
+}
+#mainnavlist li {
+  display: block;
+  clear: both;
+}
+.collapse {
+  display: none;
+}
+.collapse.in {
+  display: block;
+  width: 100%;
+}
+#navtoggle {
+  float: right;
+}
+.navtogglecont {
+  margin: 1.0rem;
+}
+@media (min-width: 768px) {
+  #mainnav {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 10;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding-top: 1.0rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+  }
+  #mainnav, #mainnav a {
+    color: white;
+  }
+  #mainnav .nav-item {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  #mainnavlist {
+    display: inline-block;
+  }
+  #mainnavlist li {
+    display: inline-block;
+  }
+  .nav-link {
+    padding: .5rem 0.4rem;
+  }
+  .collapse {
+    display: block;
+  }
+  #navtoggle {
+    display: none;
+  }
+}
+
 a.no-decoration:hover {
 	color: inherit;
 }
@@ -71,6 +159,9 @@ a.no-decoration:hover {
 	border: 2px solid #222;
 	color: #eee;
 }
+.site-heading {
+  margin-top: 2.0rem;
+}
 .site-heading, .post-heading {
   text-shadow: 0px 0px 0.5em #333;
 }
@@ -78,6 +169,9 @@ a.no-decoration:hover {
   font-size: 14px;
 }
 
+header {
+  height: 22.5rem;
+}
 .intro-header .post-heading .meta,
 .post-preview > .post-meta {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -86,17 +180,6 @@ a.no-decoration:hover {
 
 /* add custom implementation of Bootstrap card */
 .card {
-	position: relative;
-	display: -ms-flexbox;
-	display: flex;
-	-ms-flex-direction: column;
-	flex-direction: column;
-	min-width: 0;
-	word-wrap: break-word;
-	background-color: #fff;
-	background-clip: border-box;
-	border: 1px solid rgba(0, 0, 0, .125);
-	border-radius: .25rem
 }
 
 
