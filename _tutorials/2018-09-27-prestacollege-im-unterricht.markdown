@@ -1,14 +1,14 @@
 ---
 layout: tutorial
 title: "Präsentation: PrestaShop im Unterricht einsetzen [DE]"
-subtitle: "Vortrag bei regionaler Lehrerfortbildung"
+subtitle: "Vortrag regionale Lehrerfortbildung"
 date: 2018-09-27 08:30:00
 author: "Martin Kolb"
 header-img: "img/2018-06-18-prestashop-installieren/presta_header.jpg"
 tags: tutorial
 ---
 
-Hier finden Sie die Präsentation von Martin Kolb bei der regionalen Fortbildungsveranstaltung "Prestashop im Unterricht einsetzen" vom Donnerstag, 27.09.2018.
+Hier finden Sie die Präsentation von Martin Kolb bei der eintägigen regionalen Fortbildungsveranstaltung "Prestashop im Unterricht einsetzen" vom Donnerstag, 27.09.2018. Die Veranstaltung hatte zum Ziel, Lehrkräfte in Fachklassen für Kaufleute im E-Commerce in den Unterrichtseinsatz von Prestashop einzuführen.
 
 Es werden Möglichkeiten zur Installation von Prestashop vorgestellt, die Funktionsweise von Prestashop erklärt und das Modul PrestaCollege erläutert. Anschließend konnten die Teilnehmer sich selbst an einer Beispiel-Installation von Prestashop ausprobieren.
 
