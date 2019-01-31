@@ -9,6 +9,7 @@ Modules - reusable parts of our design
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
+  font-size: 1.0rem;
 }
 .cd-container::after {
   /* clearfix */
@@ -232,7 +233,7 @@ header h1 {
 	margin-top: 0.2em;
 }
 .cd-timeline-content p, .cd-timeline-content ul, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
-  font-size: 1.5rem;
+  font-size: 1.0em;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
@@ -275,13 +276,13 @@ p.responsibility, .activity-type, .cd-date {
 }
 @media only screen and (min-width: 768px) {
   .cd-timeline-content h2 {
-    font-size: 2.5rem;
+    font-size: 1.5em;
   }
   .cd-timeline-content p {
-    font-size: 1.5rem;
+    font-size: 1.0em;
   }
   .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
-    font-size: 1.2rem;
+    font-size: 1.0em;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -304,7 +305,7 @@ p.responsibility, .activity-type, .cd-date {
     width: 100%;
     left: 132%;
     top: 6px;
-    font-size: 2.0rem;
+    font-size: 1.5em;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content {
     float: right;
