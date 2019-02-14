@@ -7,7 +7,7 @@ Here you can find out about the results of our Erasmus+ project.
 
 <div class="clearfix"></div>
 
-<div>
+<div markdown="1">
 ## E-Book
 This book is a freely available resource for teachers interested in educating students in the field of e-commerce. It is the summary of the intellectual outputs of the Erasmus+ project which are reflected by the book's three main chapters:
 
@@ -21,7 +21,7 @@ This book is a freely available resource for teachers interested in educating st
 </div>
 
 <div class="clearfix"></div>
-<div>
+<div markdown="1">
 ## PrestaClassroom
 A platform for using Prestashop software in your classroom. It automates the installation of Prestashop system
 
@@ -29,7 +29,7 @@ A platform for using Prestashop software in your classroom. It automates the ins
 </div>
 
 <div class="clearfix"></div>
-<div>
+<div markdown="1">
 ## PrestaCollege
 A platform for using Prestashop software in your classroom.
 <a class="" href="https://github.com/fitforecommerce/prestacollege" target="_blank">More…</a>
