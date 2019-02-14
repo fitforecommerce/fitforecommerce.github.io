@@ -127,6 +127,7 @@ a.no-decoration, nav a {
     display: flex;
     justify-content: space-between;
     background-color: #00000044;
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#00000044', endColorstr='#00000044'); /* IE */
   }
   #mainnav, #mainnav a {
     color: white;
