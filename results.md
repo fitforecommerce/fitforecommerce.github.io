@@ -5,8 +5,7 @@ description: "Details about the results of the project"
 ---
 <div>Here you can find out about the results of our Erasmus+ project.</div>
 
-<div>
-  <div class="col-sm-12">
+<div class="col-sm-12">
   <div>
     <h2>
       <a href="https://fitforecommerce.gitbooks.io/fit-for-e-commerce/content/" target="_blank">
@@ -54,5 +53,4 @@ description: "Details about the results of the project"
       <p class="text-right"><a class="btn btn-primary btn-sm" href="https://github.com/fitforecommerce/fitforecommerce.github.io" target="_blank">More…</a></p>
     </div>
   </div>
-</div>
 </div>
