@@ -80,7 +80,7 @@ a.no-decoration, nav a {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding-top: 0.2rem;
   display: block;
-  background-color: white;
+  background-color: black;
 }
 #mainnav, #mainnav a {
   color: #333;
