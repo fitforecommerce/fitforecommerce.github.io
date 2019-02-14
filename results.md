@@ -3,11 +3,9 @@ layout: page
 title: "Results"
 description: "Details about the results of the project"
 ---
-Here you can find out about the results of our Erasmus+ project.
+<div>Here you can find out about the results of our Erasmus+ project.</div>
 
-
-
-<div class="row">
+<div>
   <div class="col-sm-12">
   <div>
     <h2>
