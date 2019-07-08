@@ -8,6 +8,10 @@ header-img: "img/2018-06-18-prestashop-installieren/presta_header.jpg"
 tags: tutorial
 ---
 
+<!--
+  TODO Fehler intl extension: extension intl aktivieren in php.ini hinzufügen
+-->
+
 *Dieser Artikel wurde am 17.07.2018 aktualisiert.* Im Zuge der Einführung des Ausbildungsberufs "Kaufmann/-frau im E-Commerce" stehen viele Schulen vor dem Problem ein Webshop-System für Unterrichtszwecke vorzuhalten. Ein System, mit der wir im Rahmen des Erasmus+ Projekts "Fit for E-Commerce" sehr gute Erfahrungen gemacht haben, ist Prestashop. Der folgende Artikel gibt eine kurze Einführung, wie man Prestashop auf einem lokalen Windows-Rechner installieren und betreiben kann.
 
 ## Was wird benötigt?
