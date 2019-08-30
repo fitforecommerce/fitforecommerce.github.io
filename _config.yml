@@ -22,7 +22,7 @@ permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "deploy", "Gemfile", "Gemfile.lock"]
 
-gems: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed]
 
 # Define releases collection
 include:
