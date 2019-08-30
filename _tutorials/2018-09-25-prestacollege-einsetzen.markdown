@@ -7,6 +7,9 @@ author: "Martin Kolb"
 header-img: "img/2018-06-18-prestashop-installieren/presta_header.jpg"
 tags: tutorial
 ---
+**Update am 30.08.2019** - Auf mehrfachen Wunsch gibt es nun auch ein [Video-Tutorial zur Installation von PrestaCollege](https://www.youtube.com/watch?v=vp7TccnzkQ0) sowie ein [Video-Tutorial zur Erstellung und Einspielen von Snapshots mit PrestaCollege](https://www.youtube.com/watch?v=VhwDSjooOis).
+
+
 **Update am 16.10.2018** - Das Modul PrestaCollege wurde entwickelt, um erfolgreiches Unterrichten mit dem Shopsystem Prestashop zu erleichtern. Diese Tutorial zeigt, wie man das Modul installieren und einsetzen kann.
 
 ## Installation des Moduls
