@@ -1,0 +1,7 @@
+
+{% assign vsrc = page.url | split: "/" | pop | join: "/" | append: '/' | append: include.src %}
+<div>
+  <video src="{{ vsrc | relative_url }}" width="100%" controls>
+    <p>Diese Video kann leider nicht in Ihrem Browser wiedergegeben werden.</p>
+  </video>
+</div>
